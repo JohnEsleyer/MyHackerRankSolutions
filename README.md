@@ -1,2 +1,2 @@
 # HackerRankSolutions
-A collection of solutions implemented on different langauges on HackerRank
+A collection of my Hackerank solutions implemented on different langauges
